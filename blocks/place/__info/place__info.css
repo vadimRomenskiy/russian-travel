@@ -1,0 +1,5 @@
+.place__info {
+    grid-area: text;
+    display: flex;
+    flex-direction: column;
+}
