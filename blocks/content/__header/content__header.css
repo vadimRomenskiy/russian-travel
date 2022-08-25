@@ -1,20 +1,18 @@
-.header__content {
+.content__header {
     margin-left: 48px;
     margin-right: 48px;
 }
 
 @media screen and (max-width: 1140px) {
-    .header__content {
+    .content__header {
         margin-left: 24px;
         margin-right: 24px;
     }    
 }
 
 @media screen and (max-width: 568px) {
-    .header__content {
+    .content__header {
         margin-left: 16px;
         margin-right: 16px;
     }    
 }
-
-
