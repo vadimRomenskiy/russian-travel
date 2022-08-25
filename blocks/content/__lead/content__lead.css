@@ -1,11 +1,11 @@
-.lead__content {
+.content__lead {
     margin-left: 148px;
     margin-right: 148px;
     margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1140px) {
-    .lead__content {
+    .content__lead {
         margin-left: 48px;
         margin-right: 48px;
     }    
@@ -13,7 +13,7 @@
 
 
 @media screen and (max-width: 984px) {
-    .lead__content {
+    .content__lead {
         margin-left: 0;
         margin-right: 0;
         margin-bottom: 88px;
@@ -21,7 +21,7 @@
 }
 
 @media screen and (max-width: 568px) {
-    .lead__content {
+    .content__lead {
         margin-left: 2px;
         margin-right: 2px;
         margin-bottom: 64px;

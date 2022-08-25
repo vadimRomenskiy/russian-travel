@@ -1,18 +1,18 @@
-.places__content {
+.content__places {
     margin-left: 148px;
     margin-right: 148px;
     margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1140px) {
-    .places__content{
+    .content__places{
         margin-left: 48px;
         margin-right: 48px;
     }
 }
 
 @media screen and (max-width: 984px) {
-    .places__content{
+    .content__places{
         margin-left: 24px;
         margin-right: 24px;
         margin-bottom: 90px;
@@ -20,7 +20,7 @@
 }
 
 @media screen and (max-width: 568px) {
-    .places__content{
+    .content__places{
         margin-left: 0px;
         margin-right: 0px;
         margin-bottom: 66px;
