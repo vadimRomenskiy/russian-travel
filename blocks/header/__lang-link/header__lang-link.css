@@ -11,15 +11,21 @@
     transition: opacity 2s ease;
 }
 
+.header__lang-link:first-of-type {
+    text-decoration-line: underline;
+}
+
+.header__lang-link:hover {
+    opacity: .8;
+}
+
 .header__lang-link:last-of-type {
     margin-right: 0;
 }
 
-.header__lang-link:hover {
-    text-decoration-line: underline;
-    opacity: .3;
-}
-
-.header__lang-link:active {
-    text-decoration-line: underline;
+@media screen and (max-width: 568px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
 }
